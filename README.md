@@ -23,8 +23,8 @@ There are five levels in which Tableau handles filtering.
 
 *Orderofoperation*
 
-* 1.Extractlters
-* 2.Datasourcelters
-* 3.Contextlters
-* 4.Dimensionlters
-* 5.Measurelters
+* 1.Extract filters
+* 2.Datasource filters
+* 3.Context filters
+* 4.Dimension filters
+* 5.Measure filters

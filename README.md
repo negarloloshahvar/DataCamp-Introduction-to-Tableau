@@ -17,3 +17,14 @@ When we drag a measure into the view, Tableau applies an aggregation to that mea
 ## Our business question
 
 Which neighborhood and room type has the highest price in NewYork?
+
+## Tableau Filtering
+There are five levels in which Tableau handles filtering.
+
+*Orderofoperation*
+
+* 1.Extractlters
+* 2.Datasourcelters
+* 3.Contextlters
+* 4.Dimensionlters
+* 5.Measurelters

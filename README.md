@@ -6,7 +6,7 @@ We will get an understanding of Tableau's fundamental concepts and features: how
 
 ### Tableau data roles
 
-*Dimensions and Measures*
+### Dimensions and Measures
 
 * (BLUE) Dimensions contain qualitative values (such as names, dates, or geographical data).
 We can use dimensions to categorize, segment, and reveal the details in your data.
@@ -17,14 +17,14 @@ Measures can be aggregated.
 When we drag a measure into the view, Tableau applies an aggregation to that measure (by default).
 
 
-## Our business question
+### Our business question
 
 Which neighborhood and room type has the highest price in NewYork?
 Private rooms in Manhattan with 9999$
-## Tableau Filtering
+### Tableau Filtering
 There are five levels in which Tableau handles filtering.
 
-*Orderofoperation*
+### Order of operation*
 
 * 1.Extract filters
 * 2.Datasource filters

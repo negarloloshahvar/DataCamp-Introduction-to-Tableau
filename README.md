@@ -36,6 +36,10 @@ There are five levels in which Tableau handles filtering.
 
 In this chapter we will review the core concepts required for analyzing and exploring data in Tableau. We’ll learn how to slice and dice data with filters, create new columns using our own calculated fields, and aggregate dimensions and measures in a view. We will be working with education, social and infrastructure data.
 
+### Aggregating measures and dimensions
+
+Aggregating can be defined as gathering and summarizing data points for analytics. Aggregating measures is more common, but also some dimensions can be aggregated, depending on your use case.
+
 ## Chapter 3 - Digging Deeper
 
 ## Chapter 4 - Presenting Your Data

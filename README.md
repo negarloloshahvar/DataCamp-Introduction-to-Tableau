@@ -24,7 +24,7 @@ Private rooms in Manhattan with 9999$
 ### Tableau Filtering
 There are five levels in which Tableau handles filtering.
 
-### Order of operation*
+### Order of operation
 
 * 1.Extract filters
 * 2.Datasource filters

@@ -1,6 +1,10 @@
 # DataCamp-Introduction-to-Tableau
 
-## Tableau data roles
+## Chapter 1 - Getting Started with Tableau
+
+We will get an understanding of Tableau's fundamental concepts and features: how to connect to data sources, use Tableau’s drag-and-drop interface, and create compelling visualizations. We will be explore an Airbnb dataset for the city of Amsterdam.
+
+### Tableau data roles
 
 *Dimensions and Measures*
 
@@ -11,7 +15,6 @@ Dimensions affect the level of detail in the view.
 * (GREEN) Measures contain numeric, quantitative values that we can measure.
 Measures can be aggregated.
 When we drag a measure into the view, Tableau applies an aggregation to that measure (by default).
-
 
 
 ## Our business question
@@ -28,3 +31,11 @@ There are five levels in which Tableau handles filtering.
 * 3.Context filters
 * 4.Dimension filters
 * 5.Measure filters
+
+## Chapter 2 - Building and Customizing Visualizations
+
+In this chapter we will review the core concepts required for analyzing and exploring data in Tableau. We’ll learn how to slice and dice data with filters, create new columns using our own calculated fields, and aggregate dimensions and measures in a view. We will be working with education, social and infrastructure data.
+
+## Chapter 3 - Digging Deeper
+
+## Chapter 4 - Presenting Your Data
